@@ -1,8 +1,4 @@
-# Data Engineering Project Template
-
-This is a template you can use for your next data engineering portfolio project. To copy it, log into GitHub and click on the **Use this template** button above.
-
-![GitHub use this template button](use-this-template-button.png)
+# Tableau Public Pipeline dashboard using an free Open-source API reader.
 
 ## Overview
 
